@@ -1,6 +1,6 @@
-# Picnic ML Pipeline POC
+# ML AI Pipeline Ops
 
-An end-to-end ML platform proof-of-concept demonstrating model training, deployment automation, A/B testing, and production monitoring — built for the ML Platform Engineer role at Picnic.
+A production-grade ML pipeline framework implementing automated model training, deployment workflows, A/B testing, and monitoring frameworks — built to demonstrate end-to-end ML platform engineering.
 
 ## What This Demonstrates
 
