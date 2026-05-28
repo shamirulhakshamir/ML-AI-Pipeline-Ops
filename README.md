@@ -56,8 +56,8 @@ pytest -q
 Build and run locally:
 
 ```bash
-docker build -t picnic-ml-pipeline:latest .
-docker run --rm picnic-ml-pipeline:latest
+docker build -t ml-ai-pipeline-ops:latest .
+docker run --rm ml-ai-pipeline-ops:latest
 ```
 
 For Kubernetes deployment, the container is designed to work behind a service mesh. Key considerations implemented in this POC:
@@ -70,7 +70,7 @@ For Kubernetes deployment, the container is designed to work behind a service me
 ## Project Structure
 
 ```
-picnic-ml-pipeline-poc/
+ml-ai-pipeline-ops/
 ├── src/
 │   ├── __init__.py
 │   ├── config.py          # Central configuration
